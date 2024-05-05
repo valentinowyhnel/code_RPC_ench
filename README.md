@@ -1,4 +1,4 @@
-# code_RPC_ench
+## code_RPC_ench
 
 This code demonstrates a basic implementation of a Remote Method Invocation (RMI) system in Java for an auction service. RMI is a Java API that allows objects to invoke methods on remote objects across different Java Virtual Machines (JVMs), potentially on different machines. Here's an explanation of each component and what needs to be configured to make this code work:
 
